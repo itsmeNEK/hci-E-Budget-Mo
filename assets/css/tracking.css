@@ -1,0 +1,24 @@
+.connector {
+    display: flex;
+    position: absolute;
+    width: 920px;
+    border: solid 3px black;
+    background-color: black;
+    margin-top: 15px;
+}
+
+.track-icon {
+    margin-left: 125px;
+    margin-top: -40px;
+    color: red;
+    display: flex;
+    position: absolute;
+}
+
+.track-icon-s {
+    margin-left: 125px;
+    margin-top: -40px;
+    color: green;
+    display: flex;
+    position: absolute;
+}
