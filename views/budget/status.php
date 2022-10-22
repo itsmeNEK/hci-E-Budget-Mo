@@ -70,7 +70,7 @@
                             <tr>
                                 <td style="width: 75%;">
                                     <p class="bg-primary m-2 p-3 rounded"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark"><i class="bi bi-eye-fill"></i>View</button>

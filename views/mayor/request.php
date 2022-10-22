@@ -75,7 +75,7 @@
                             <tr>
                                 <td>
                                     <p class="bg-primary m-2 p-3 rounded w-100"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark">View</button>
@@ -84,7 +84,7 @@
                             <tr>
                                 <td>
                                     <p class="bg-primary m-2 p-3 rounded w-100"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark">View</button>
@@ -93,7 +93,7 @@
                             <tr>
                                 <td>
                                     <p class="bg-primary m-2 p-3 rounded w-100"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark">View</button>
@@ -102,7 +102,7 @@
                             <tr>
                                 <td>
                                     <p class="bg-primary m-2 p-3 rounded w-100"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark">View</button>
@@ -111,7 +111,7 @@
                             <tr>
                                 <td>
                                     <p class="bg-primary m-2 p-3 rounded w-100"><i
-                                            class="bi bi-bell-fill text-warning"></i>dasdasdasd</p>
+                                            class="bi bi-bell-fill text-warning"></i>Document</p>
                                 </td>
                                 <td class="text-end">
                                     <button class="btn btn-dark">View</button>
